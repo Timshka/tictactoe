@@ -1,8 +1,8 @@
-import Cell from "./components/Cell"
+import Board from "./components/Board"
 
 function App() {
 
-  return <Cell />
+  return <Board />
 } 
 
 export default App
